@@ -1,0 +1,54 @@
+version: '3.8'
+
+services:
+
+  # API service
+  api:
+    image: lmsapiimage:latest
+    container_name: lmsapi-container
+    ports:
+      - "80:80"
+      - "443:443"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=Server=host.docker.internal,1433;Database=LMSDB;User Id=sa;Password=Admin786;
+      - Redis__Configuration=redis:6379
+      - ASPNETCORE_URLS=https://+:443;http://+:80
+      - ASPNETCORE_Kestrel__Certificates__Default__Password=lmsapi2024
+      - ASPNETCORE_Kestrel__Certificates__Default__Path=/https/aspnetcore-dev.pfx
+    depends_on:
+      - sqlserver
+      - redis
+    volumes:
+      - ./certificates:/https
+    networks:
+      - lms-network
+
+  # SQL Server service
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    container_name: sqlserver
+    ports:
+      - "1433:1433"
+    environment:
+      - SA_PASSWORD=Admin786
+      - ACCEPT_EULA=Y
+    volumes:
+      - sqlserverdata:/var/opt/mssql
+    networks:
+      - lms-network
+
+  # Redis service
+  redis:
+    image: redis:latest
+    container_name: redis-container
+    ports:
+      - "6379:6379"
+    networks:
+      - lms-network
+
+volumes:
+  sqlserverdata:
+
+networks:
+  lms-network:

@@ -1,0 +1,17 @@
+D:\Projects\LMS\Source\LMS-ENTERPRISE\LMS.Application\bin\Debug\net8.0\LMS.Application.deps.json
+D:\Projects\LMS\Source\LMS-ENTERPRISE\LMS.Application\bin\Debug\net8.0\LMS.Application.dll
+D:\Projects\LMS\Source\LMS-ENTERPRISE\LMS.Application\bin\Debug\net8.0\LMS.Application.pdb
+D:\Projects\LMS\Source\LMS-ENTERPRISE\LMS.Application\bin\Debug\net8.0\LMS.Common.dll
+D:\Projects\LMS\Source\LMS-ENTERPRISE\LMS.Application\bin\Debug\net8.0\LMS.Domain.dll
+D:\Projects\LMS\Source\LMS-ENTERPRISE\LMS.Application\bin\Debug\net8.0\LMS.Common.pdb
+D:\Projects\LMS\Source\LMS-ENTERPRISE\LMS.Application\bin\Debug\net8.0\LMS.Domain.pdb
+D:\Projects\LMS\Source\LMS-ENTERPRISE\LMS.Application\obj\Debug\net8.0\LMS.Application.csproj.AssemblyReference.cache
+D:\Projects\LMS\Source\LMS-ENTERPRISE\LMS.Application\obj\Debug\net8.0\LMS.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\LMS\Source\LMS-ENTERPRISE\LMS.Application\obj\Debug\net8.0\LMS.Application.AssemblyInfoInputs.cache
+D:\Projects\LMS\Source\LMS-ENTERPRISE\LMS.Application\obj\Debug\net8.0\LMS.Application.AssemblyInfo.cs
+D:\Projects\LMS\Source\LMS-ENTERPRISE\LMS.Application\obj\Debug\net8.0\LMS.Application.csproj.CoreCompileInputs.cache
+D:\Projects\LMS\Source\LMS-ENTERPRISE\LMS.Application\obj\Debug\net8.0\LMS.Appl.3451E0AD.Up2Date
+D:\Projects\LMS\Source\LMS-ENTERPRISE\LMS.Application\obj\Debug\net8.0\LMS.Application.dll
+D:\Projects\LMS\Source\LMS-ENTERPRISE\LMS.Application\obj\Debug\net8.0\refint\LMS.Application.dll
+D:\Projects\LMS\Source\LMS-ENTERPRISE\LMS.Application\obj\Debug\net8.0\LMS.Application.pdb
+D:\Projects\LMS\Source\LMS-ENTERPRISE\LMS.Application\obj\Debug\net8.0\ref\LMS.Application.dll

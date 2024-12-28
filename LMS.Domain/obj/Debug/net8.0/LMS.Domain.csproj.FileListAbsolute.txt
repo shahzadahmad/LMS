@@ -1,0 +1,11 @@
+D:\Projects\LMS\Source\LMS-ENTERPRISE\LMS.Domain\bin\Debug\net8.0\LMS.Domain.deps.json
+D:\Projects\LMS\Source\LMS-ENTERPRISE\LMS.Domain\bin\Debug\net8.0\LMS.Domain.dll
+D:\Projects\LMS\Source\LMS-ENTERPRISE\LMS.Domain\bin\Debug\net8.0\LMS.Domain.pdb
+D:\Projects\LMS\Source\LMS-ENTERPRISE\LMS.Domain\obj\Debug\net8.0\LMS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\LMS\Source\LMS-ENTERPRISE\LMS.Domain\obj\Debug\net8.0\LMS.Domain.AssemblyInfoInputs.cache
+D:\Projects\LMS\Source\LMS-ENTERPRISE\LMS.Domain\obj\Debug\net8.0\LMS.Domain.AssemblyInfo.cs
+D:\Projects\LMS\Source\LMS-ENTERPRISE\LMS.Domain\obj\Debug\net8.0\LMS.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\LMS\Source\LMS-ENTERPRISE\LMS.Domain\obj\Debug\net8.0\LMS.Domain.dll
+D:\Projects\LMS\Source\LMS-ENTERPRISE\LMS.Domain\obj\Debug\net8.0\refint\LMS.Domain.dll
+D:\Projects\LMS\Source\LMS-ENTERPRISE\LMS.Domain\obj\Debug\net8.0\LMS.Domain.pdb
+D:\Projects\LMS\Source\LMS-ENTERPRISE\LMS.Domain\obj\Debug\net8.0\ref\LMS.Domain.dll

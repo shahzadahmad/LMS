@@ -1,0 +1,38 @@
+# Ignore the following files and directories
+
+# .NET build output directories
+bin/
+obj/
+
+# User-specific files
+*.user
+*.csproj.user
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# Configurations
+appsettings.Development.json
+appsettings.Local.json
+appsettings.Production.json
+
+# Docker-related files
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# IDE-specific directories
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Node.js dependencies (if using frontend in the same project)
+node_modules/
+
+# Environment variables
+.env

@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\LMS\\Source\\LMS-ENTERPRISE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{213338BB-C729-452B-A6B5-C7B32C567B12}|LMS.Application\\LMS.Application.csproj|d:\\projects\\lms\\source\\lms-enterprise\\lms.application\\lms.application.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{213338BB-C729-452B-A6B5-C7B32C567B12}|LMS.Application\\LMS.Application.csproj|solutionrelative:lms.application\\lms.application.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B8149B-D514-49A7-B23C-05F777F3412D}|LMS.Api\\LMS.Api.csproj|d:\\projects\\lms\\source\\lms-enterprise\\lms.api\\lms.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{47B8149B-D514-49A7-B23C-05F777F3412D}|LMS.Api\\LMS.Api.csproj|solutionrelative:lms.api\\lms.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LMS.Application",
+              "DocumentMoniker": "D:\\Projects\\LMS\\Source\\LMS-ENTERPRISE\\LMS.Application\\LMS.Application.csproj",
+              "RelativeDocumentMoniker": "LMS.Application\\LMS.Application.csproj",
+              "ToolTip": "D:\\Projects\\LMS\\Source\\LMS-ENTERPRISE\\LMS.Application\\LMS.Application.csproj",
+              "RelativeToolTip": "LMS.Application\\LMS.Application.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-01T16:33:38.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LMS.Api",
+              "DocumentMoniker": "D:\\Projects\\LMS\\Source\\LMS-ENTERPRISE\\LMS.Api\\LMS.Api.csproj",
+              "RelativeDocumentMoniker": "LMS.Api\\LMS.Api.csproj",
+              "ToolTip": "D:\\Projects\\LMS\\Source\\LMS-ENTERPRISE\\LMS.Api\\LMS.Api.csproj",
+              "RelativeToolTip": "LMS.Api\\LMS.Api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-01T16:33:19.127Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

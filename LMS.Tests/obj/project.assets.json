@@ -1,0 +1,170 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "LMS.Api/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "LMS.Application": "1.0.0",
+          "LMS.Common": "1.0.0",
+          "LMS.Infrastructure": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LMS.Api.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LMS.Api.dll": {}
+        }
+      },
+      "LMS.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "LMS.Common": "1.0.0",
+          "LMS.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LMS.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LMS.Application.dll": {}
+        }
+      },
+      "LMS.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/LMS.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LMS.Common.dll": {}
+        }
+      },
+      "LMS.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/LMS.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LMS.Domain.dll": {}
+        }
+      },
+      "LMS.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "LMS.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LMS.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LMS.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LMS.Api/1.0.0": {
+      "type": "project",
+      "path": "../LMS.Api/LMS.Api.csproj",
+      "msbuildProject": "../LMS.Api/LMS.Api.csproj"
+    },
+    "LMS.Application/1.0.0": {
+      "type": "project",
+      "path": "../LMS.Application/LMS.Application.csproj",
+      "msbuildProject": "../LMS.Application/LMS.Application.csproj"
+    },
+    "LMS.Common/1.0.0": {
+      "type": "project",
+      "path": "../LMS.Common/LMS.Common.csproj",
+      "msbuildProject": "../LMS.Common/LMS.Common.csproj"
+    },
+    "LMS.Domain/1.0.0": {
+      "type": "project",
+      "path": "../LMS.Domain/LMS.Domain.csproj",
+      "msbuildProject": "../LMS.Domain/LMS.Domain.csproj"
+    },
+    "LMS.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../LMS.Infrastructure/LMS.Infrastructure.csproj",
+      "msbuildProject": "../LMS.Infrastructure/LMS.Infrastructure.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "LMS.Api >= 1.0.0",
+      "LMS.Application >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\shahz\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Projects\\LMS\\Source\\LMS-ENTERPRISE\\LMS.Tests\\LMS.Tests.csproj",
+      "projectName": "LMS.Tests",
+      "projectPath": "D:\\Projects\\LMS\\Source\\LMS-ENTERPRISE\\LMS.Tests\\LMS.Tests.csproj",
+      "packagesPath": "C:\\Users\\shahz\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\LMS\\Source\\LMS-ENTERPRISE\\LMS.Tests\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\shahz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\Projects\\LMS\\Source\\LMS-ENTERPRISE\\LMS.Api\\LMS.Api.csproj": {
+              "projectPath": "D:\\Projects\\LMS\\Source\\LMS-ENTERPRISE\\LMS.Api\\LMS.Api.csproj"
+            },
+            "D:\\Projects\\LMS\\Source\\LMS-ENTERPRISE\\LMS.Application\\LMS.Application.csproj": {
+              "projectPath": "D:\\Projects\\LMS\\Source\\LMS-ENTERPRISE\\LMS.Application\\LMS.Application.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

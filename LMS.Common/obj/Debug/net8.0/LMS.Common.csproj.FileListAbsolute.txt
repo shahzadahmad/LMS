@@ -1,0 +1,11 @@
+D:\Projects\LMS\Source\LMS-ENTERPRISE\LMS.Common\bin\Debug\net8.0\LMS.Common.deps.json
+D:\Projects\LMS\Source\LMS-ENTERPRISE\LMS.Common\bin\Debug\net8.0\LMS.Common.dll
+D:\Projects\LMS\Source\LMS-ENTERPRISE\LMS.Common\bin\Debug\net8.0\LMS.Common.pdb
+D:\Projects\LMS\Source\LMS-ENTERPRISE\LMS.Common\obj\Debug\net8.0\LMS.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\LMS\Source\LMS-ENTERPRISE\LMS.Common\obj\Debug\net8.0\LMS.Common.AssemblyInfoInputs.cache
+D:\Projects\LMS\Source\LMS-ENTERPRISE\LMS.Common\obj\Debug\net8.0\LMS.Common.AssemblyInfo.cs
+D:\Projects\LMS\Source\LMS-ENTERPRISE\LMS.Common\obj\Debug\net8.0\LMS.Common.csproj.CoreCompileInputs.cache
+D:\Projects\LMS\Source\LMS-ENTERPRISE\LMS.Common\obj\Debug\net8.0\LMS.Common.dll
+D:\Projects\LMS\Source\LMS-ENTERPRISE\LMS.Common\obj\Debug\net8.0\refint\LMS.Common.dll
+D:\Projects\LMS\Source\LMS-ENTERPRISE\LMS.Common\obj\Debug\net8.0\LMS.Common.pdb
+D:\Projects\LMS\Source\LMS-ENTERPRISE\LMS.Common\obj\Debug\net8.0\ref\LMS.Common.dll
